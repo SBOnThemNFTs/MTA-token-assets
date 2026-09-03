@@ -1,0 +1,17 @@
+{
+  "name": "Meme Theft Auto",
+  "symbol": "MTA",
+  "description": "The WEB4 currency of Meme City.",
+  "image": "C:\Users\User\Downloads\mta-logo (1).png",
+  "external_url": "https://memetheftauto.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "C:\Users\User\Downloads\mta-logo (1).png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
