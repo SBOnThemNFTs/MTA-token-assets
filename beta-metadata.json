@@ -2,12 +2,12 @@
   "name": "MTA Beta Token",
   "symbol": "tMTA",
   "description": "TESTING ONLY. This token has no value.",
-  "image": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/product-images/mta-logo.png",
+  "image": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/product-images/mta-logo-beta.png",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/product-images/mta-logo.png",
+        "uri": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/product-images/mta-logo-beta.png",
         "type": "image/png"
       }
     ],
