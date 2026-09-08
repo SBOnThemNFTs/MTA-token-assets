@@ -1,6 +1,6 @@
 {
   "name": "MTA Beta Token",
-  "symbol": "tMTA",
+  "symbol": "bMTA",
   "description": "TESTING ONLY. This token has no value.",
   "image": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/product-images/mta-logo-beta.png",
   "attributes": [],
