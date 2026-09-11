@@ -2,12 +2,12 @@
   "name": "Meme Theft Auto",
   "symbol": "MTA",
   "description": "The WEB4 currency of Meme City & The Marketplace.",
-  "image": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/product-images/mta-logo.png",
+  "image": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/coin-metadata/mta-logo-main.PNG",
   "attributes": [],
   "properties": {
     "files": [
       {
-        "uri": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/product-images/mta-logo.png",
+        "uri": "https://dryrohgtrhtoeyklvdml.supabase.co/storage/v1/object/public/coin-metadata/mta-logo-main.PNG",
         "type": "image/png"
       }
     ],
